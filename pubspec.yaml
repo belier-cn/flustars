@@ -4,7 +4,8 @@ version: 2.0.1
 homepage: https://github.com/Sky24n/flustars
 
 environment:
-  sdk: ">=2.12.0-259.9.beta <3.0.0"
+  flutter: ">=3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
   flutter:
